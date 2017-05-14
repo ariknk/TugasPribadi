@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity
 
         changePage(R.id.nav_home);
         navigationView.setCheckedItem(R.id.nav_home);
+
+
     }
 
     private void changePage(int id) {
@@ -54,6 +56,8 @@ public class MainActivity extends AppCompatActivity
             fragment = new HomeFragment();
             setTitle("News");
         } else if (id == R.id.nav_about) {
+            fragment = new AboutFragment();
+            setTitle("About");
 
         }
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();
