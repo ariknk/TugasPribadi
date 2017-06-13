@@ -1,5 +1,6 @@
 # TugasPribadi <br>
 #Link apk release : https://drive.google.com/open?id=0B1ZqGrUObjjrbzFvZG1ZNzR0ZVE  <br>
+#Link apk release v2 : https://drive.google.com/file/d/0B1ZqGrUObjjrWFVqU2RLdklaa2s/view?usp=sharing <br>
 #Identitas Siswa <br>
 Nama lengkap : Arik Nur Khoiriyah <br>
 Kelas / No urut : XI RPL 6 / 05 <br>
