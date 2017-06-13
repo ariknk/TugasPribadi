@@ -8,7 +8,7 @@ Angkatan: 24 <br>
 SMK Telkom Malang <br>
 #Alamat API yang digunakan pada Aplikasi : New York Times
 #Jenis Navigasi yang digunakan pada Aplikasi : Navigasi 4
-#Library dari Local Database yang digunakan pada Aplikasi : Volley dan Glide
+#Library dari Local Database yang digunakan pada Aplikasi : Volley dan Glide dengan database SQLiteDatabase
 #Deskripsi singkat dari aplikasi : <br>
 Pada aplikasi ini menggunakan navigasi 4 dengan di dalamnya terdapat fragmentt dan recycler view 1 <br>
 pada aplikasi ini menggunakan api new york times yang berfungsi untuk menampilkan review movie dengan<br>
