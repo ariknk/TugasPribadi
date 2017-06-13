@@ -1,11 +1,11 @@
 # TugasPribadi <br>
 #Link apk release : https://drive.google.com/open?id=0B1ZqGrUObjjrbzFvZG1ZNzR0ZVE  <br>
-#Identitas Siswa
+#Identitas Siswa <br>
 Nama lengkap : Arik Nur Khoiriyah <br>
 Kelas / No urut : XI RPL 6 / 05 <br>
 NIS : 4669/1388.070<br>
-Angkatan: 24
-SMK Telkom Malang
+Angkatan: 24 <br>
+SMK Telkom Malang <br>
 #Alamat API yang digunakan pada Aplikasi : New York Times
 #Jenis Navigasi yang digunakan pada Aplikasi : Navigasi 4
 #Library dari Local Database yang digunakan pada Aplikasi : Volley dan Glide
